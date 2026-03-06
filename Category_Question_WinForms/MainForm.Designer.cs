@@ -1,6 +1,6 @@
 ﻿namespace Category_Question_WinForms
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
